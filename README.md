@@ -7,6 +7,10 @@ Since the beginning of 2025, I've been using Microsoft Copilot to automate the m
 VC Code, Visual Studio, and Android Studio are my preferred IDEs, and I build everything using CMake, Clang, and CCache. I used to use the old NDK Build for Android NDK applications but I've replaced it with CMake so that I don't have to maintain platform-specific build scripts. I prefer Windows over Mac OS because of its window-handling capabilities but I've also been using WSL more since I've found many small Linux programs that make my life easier.
 
 ---
+## Languages, Skills, Frameworks, and Libraries
+C++, Kotlin, Java, Appium, Deque Axe, Windows API, Android NDK, ServiceNow, LLVM, Clang, MSBuild, CMake, Ninja, Gradle, CCache, Boost, Freetype 2, SDL2 and SDL3, OpenGL, GLM, Bullet, Diligent Engine, Glaze, SOIL2, Bitsery, Libremidi
+
+---
 ## Experience
 ### *OpenPath Products*, 2021-2026
 * Kotlin, Java, Appium, Axe
