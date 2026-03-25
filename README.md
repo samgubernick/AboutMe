@@ -4,7 +4,7 @@ My name is Sam Gubernick and I've been developing software since 2015. I'm profi
 
 Since the beginning of 2025, I've been using Microsoft Copilot to automate the more tedious and repetitive parts of my job, including analyzing stack traces and maintaining huge enums. I believe that LLMs provide demonstrable benefits for software development (along with most of aspects of life) in general but its capabilities are overmarketed because it can't (or hasn't yet) replaced decision-making. I write my own messages (including this) myself and proofread them manually, and I avoid using suggestions from LLMs for larger portions of code (or whole files) unless it's roughly something I'd write or I understand the code and have a sense of where the LLM is coming from on the suggestion.
 
-VC Code, Visual Studio, and Android Studio are my preferred IDEs, and I build everything using CMake, Clang, and CCache. I used to use the old NDK Build for Android NDK applications but I've replaced it with CMake so that I don't have to maintain platform-specific build scripts. I prefer Windows over Mac OS because of its window-handling capabilities but I've also been using WSL more since I've found many small Linux programs that make my life easier.
+VC Code with Remote SSH, Visual Studio, and Android Studio are my preferred IDEs, and I build everything using CMake, Clang, and CCache. I used to use the old NDK Build for Android NDK applications but I've replaced it with CMake so that I don't have to maintain platform-specific build scripts. I prefer Windows over Mac OS because of its window-handling capabilities but I've also been using WSL more since I've found many small Linux programs that make my life easier.
 
 ---
 ## Languages, Skills, Frameworks, and Libraries
